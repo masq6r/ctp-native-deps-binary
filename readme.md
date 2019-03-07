@@ -4,6 +4,7 @@ Shape of Future的依赖包。包括了CTP的C++原生库，以及CTP C/C#封装
 ## 项目结构
 
 `native-deps.zip`: 按照linux-x64/win-x64/win-x86目录结构组织的CTP C++原生库与CTP C封装库（和体系结构与平台相关）。
+
 `ctp-csharp.1.0.0.nupkg`: CTP C#封装（nuget包，与体系结构平台无关）。
 
 ## 使用
